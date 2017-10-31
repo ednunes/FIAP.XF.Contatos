@@ -39,6 +39,7 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="Camera\ICamera.cs" />
+    <Compile Include="Contato\IContato.cs" />
     <Compile Include="Ligacao\ILigacao.cs" />
     <Compile Include="GPS\ILocalizacao.cs" />
     <Compile Include="MainPage.xaml.cs">
